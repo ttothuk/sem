@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="Added Hello World file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,28 +109,36 @@
       <option name="project" value="LOCAL" />
       <updated>1579172623960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testing, testing">
+      <created>1579173858654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579173858654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, adding initial files." />
     <MESSAGE value="Edit: spelling" />
     <MESSAGE value="Added Hello World file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Hello World file" />
+    <MESSAGE value="Testing, testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing, testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579173331430">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579173858260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579173331430" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579173858260" />
     <state x="904" y="126" key="SettingsEditor" timestamp="1579171785835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="904" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579171785835" />
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579173312382">
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579173863012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579173312382" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579173863012" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579042124619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
