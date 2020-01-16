@@ -1,1 +1,1 @@
-Keep is simple.
+README file kept simple.

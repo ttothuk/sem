@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seMethods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tibor Toth &lt;40400971@live.napier.ac.uk&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -61,13 +59,33 @@
       <option name="presentableId" value="Default" />
       <updated>1579040536327</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit, adding initial files.">
+      <created>1579170529019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579170529020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, adding initial files." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, adding initial files." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579170528619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579170528619" />
     <state x="922" y="167" key="SettingsEditor" timestamp="1579041844902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579041844902" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579170657534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579170657534" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579042124619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
