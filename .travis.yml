@@ -1,10 +1,10 @@
-language: java
-
 sudo: required
+
+language: java
 
 services:
   - docker
 
 after_success:
-  - docker build -t sem .
-  - docker run sem
+  - docker build -t se_methods .
+  - docker run se_methods
