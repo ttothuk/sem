@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
-  <component name="RunManager" selected="Docker.Dockerfile">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="seMethods" />
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579210323461</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Docker image (2)">
+      <created>1579210601109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579210601110</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,28 +184,45 @@
     <MESSAGE value="fakit 2" />
     <MESSAGE value="fakit 3" />
     <MESSAGE value="Docker image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docker image" />
+    <MESSAGE value="Docker image (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docker image (2)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579210323067">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579210600772">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210323067" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210600772" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1579529765227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765227" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1579529765226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1579529765226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1579529765226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
     <state x="922" y="181" width="998" height="708" key="SettingsEditor" timestamp="1579209918315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="181" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579209918315" />
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579210337698">
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579210606252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210337698" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210606252" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579209208652" />
-    <state x="1193" y="316" key="git4idea.merge.GitPullDialog" timestamp="1579169858661">
+    <state x="1193" y="316" key="git4idea.merge.GitPullDialog" timestamp="1579525651740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1193" y="316" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579169858661" />
+    <state x="1193" y="316" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579525651740" />
   </component>
 </project>
