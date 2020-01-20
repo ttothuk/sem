@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,13 @@
       </set>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1WP9oOwObR6ML9PKz5PzTQ3KgKM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,7 +53,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -173,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579210601110</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Travis added - test">
+      <created>1579534108038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579534108039</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,13 +199,14 @@
     <MESSAGE value="fakit 3" />
     <MESSAGE value="Docker image" />
     <MESSAGE value="Docker image (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docker image (2)" />
+    <MESSAGE value="Travis added - test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Travis added - test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579210600772">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579534107681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210600772" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579534107681" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1579529765227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,14 +223,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
-    <state x="922" y="181" width="998" height="708" key="SettingsEditor" timestamp="1579209918315">
+    <state x="605" y="149" width="998" height="708" key="SettingsEditor" timestamp="1579535267265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="181" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579209918315" />
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579210606252">
+    <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579534124726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579210606252" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579534124726" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
