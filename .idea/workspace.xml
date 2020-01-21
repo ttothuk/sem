@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
-      <module name="seMethods" />
+      <module name="sem" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.napier.sem.*" />
@@ -201,28 +201,7 @@
       <option name="project" value="LOCAL" />
       <updated>1579535801989</updated>
     </task>
-    <task id="LOCAL-00013" summary="Travis added&#10;README updated (2)">
-      <created>1579536005672</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1579536005672</updated>
-    </task>
-    <task id="LOCAL-00014" summary=".travis.yml updated">
-      <created>1579536636676</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1579536636676</updated>
-    </task>
-    <task id="LOCAL-00015" summary="figuring out">
-      <created>1579537326816</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1579537326816</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,40 +216,41 @@
     <MESSAGE value="Travis added - test" />
     <MESSAGE value="Travis added - test 2" />
     <MESSAGE value="Travis added&#10;README updated" />
-    <MESSAGE value="Travis added&#10;README updated (2)" />
-    <MESSAGE value=".travis.yml updated" />
-    <MESSAGE value="figuring out" />
-    <option name="LAST_COMMIT_MESSAGE" value="figuring out" />
+    <option name="LAST_COMMIT_MESSAGE" value="Travis added&#10;README updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579537561271">
+    <state x="677" y="179" key="#App" timestamp="1579536385660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579537561271" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1579529765227">
+    <state x="677" y="179" key="#App/0.0.1920.1040@0.0.1920.1040" timestamp="1579536385660" />
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579535801662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765227" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1579529765226">
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579535801662" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579536410052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1579529765226">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579536410052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579536410052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1579529765226">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579536410052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579536410052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579529765226" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579536410052" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579536410052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579536410052" />
     <state x="605" y="149" width="998" height="708" key="SettingsEditor" timestamp="1579535267265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579537562972">
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579535815989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579537562972" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579535815989" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
