@@ -223,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="179" key="#App/0.0.1920.1040@0.0.1920.1040" timestamp="1579536385660" />
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579535801662">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579615802409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579535801662" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579615802409" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579536410052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,14 +243,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579536410052" />
+    <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1579615828490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="237" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579615828490" />
     <state x="605" y="149" width="998" height="708" key="SettingsEditor" timestamp="1579535267265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579535815989">
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2" timestamp="1579615806540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579535815989" />
+    <state x="1032" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579615806540" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
