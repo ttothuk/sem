@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579624979635</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update, mongo, readme">
+      <created>1579626254541</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579626254541</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +297,8 @@
     <MESSAGE value="'develop' branch added" />
     <MESSAGE value="'feature/mongo-intergration' branch added" />
     <MESSAGE value="Updated App.Java &#10;Mongo should work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated App.Java &#10;Mongo should work" />
+    <MESSAGE value="Update, mongo, readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update, mongo, readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="179" key="#App" timestamp="1579536385660">
@@ -305,26 +313,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1579623746238" />
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1579624979032">
+    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1579626254014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579624979032" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579624936875">
+    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579626254014" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579626492054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579624936875" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579624936875">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579626492054" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579626492054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579624936875" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579624936875">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579626492054" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579626492054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579624936875" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579624936875">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579626492054" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579626492054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579624936875" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579626492054" />
     <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1579615828490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -333,10 +341,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1579625004600">
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1579626262098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579625004600" />
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579626262098" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
