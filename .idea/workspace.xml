@@ -334,10 +334,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1579623746238" />
-    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1579627813947">
+    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1580089332753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579627813947" />
+    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580089332753" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579626716794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -362,10 +362,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1579627822199">
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1580089430345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579627822199" />
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580089430345" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -374,5 +374,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1193" y="316" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579525651740" />
+    <state x="586" y="367" key="git4idea.ui.GitUnstashDialog" timestamp="1580089452892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="367" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580089452892" />
   </component>
 </project>
