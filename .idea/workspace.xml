@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/napier/sem/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem.App" />
       <module name="sem" />
@@ -151,11 +148,6 @@
                 <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
                 <item name="Compose: docker-compose.yml" type="9fbbdea:ServiceModel$ServiceNode" />
                 <item name="db" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -348,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580741970145</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Changed main, connected to database">
+      <created>1580747507267</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1580747507267</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,26 +402,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1579623746238" />
-    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1580741969576">
+    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1580747506712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580741969576" />
-    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1580747449303">
+    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580747506712" />
+    <state width="1877" height="452" key="GridCell.Tab.0.bottom" timestamp="1580748208808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580747449303" />
-    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1580747449303">
+    <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580748208808" />
+    <state width="1877" height="452" key="GridCell.Tab.0.center" timestamp="1580748208808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580747449303" />
-    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1580747449303">
+    <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580748208808" />
+    <state width="1877" height="452" key="GridCell.Tab.0.left" timestamp="1580748208807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580747449303" />
-    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1580747449303">
+    <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580748208807" />
+    <state width="1877" height="452" key="GridCell.Tab.0.right" timestamp="1580748208808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580747449303" />
+    <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580748208808" />
     <state x="672" y="237" key="MultipleFileMergeDialog" timestamp="1579615828490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -431,10 +430,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579535267265" />
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1580741975884">
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1580747508708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580741975884" />
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580747508708" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
