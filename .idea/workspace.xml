@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c100094-f181-40c7-955a-34b5245ce606" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="release" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -337,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580747507267</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Connected to database&#10;Outputting employee's data&#10;Merged everything to master">
+      <created>1581341032630</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581341032630</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +381,8 @@
     <MESSAGE value="FUCK KEVIN!" />
     <MESSAGE value="Switching to MySQL" />
     <MESSAGE value="Changed main, connected to database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed main, connected to database" />
+    <MESSAGE value="Connected to database&#10;Outputting employee's data&#10;Merged everything to master" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connected to database&#10;Outputting employee's data&#10;Merged everything to master" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="179" key="#App" timestamp="1579536385660">
@@ -392,10 +397,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1579623746238" />
-    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1580747506712">
+    <state x="539" y="32" key="CommitChangelistDialog2" timestamp="1581341031749">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580747506712" />
+    <state x="539" y="32" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581341031749" />
     <state width="1877" height="340" key="GridCell.Tab.0.bottom" timestamp="1581340954806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -420,10 +425,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="149" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581340048321" />
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1580747508708">
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2" timestamp="1581341040485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580747508708" />
+    <state x="453" y="168" width="816" height="504" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581341040485" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579209208652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
